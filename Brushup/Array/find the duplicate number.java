@@ -1,1 +1,0 @@
-find the duplicate number
