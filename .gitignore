@@ -61,3 +61,5 @@ dist/
 nbdist/
 .nb-gradle/
 target/
+/TMC/mooc-2013-OOProgrammingWithJava-PART1/week1-002.HelloWorld/nbproject/private/
+/TMC/mooc-2013-OOProgrammingWithJava-PART1/week1-001.Name/nbproject/private/
